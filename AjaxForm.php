@@ -27,7 +27,7 @@ class Ajax_Form {
     # Constants to redefined
     # Check this for more configurations: https://blog.mailtrap.io/phpmailer
     const HOST        = 'smtp.gmail.com'; # SMTP server
-    const USERNAME    = 'reejitx'; # SMTP username
+    const USERNAME    = 'reejitx@gmail.com'; # SMTP username
     const PASSWORD    = 'reejitxx'; # SMTP password
     const SMTP_SECURE = PHPMailer::ENCRYPTION_STARTTLS;
     const SMTP_AUTH   = true;
