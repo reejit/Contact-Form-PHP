@@ -122,7 +122,7 @@ class Ajax_Form {
             <p><strong>Name :</strong> {{name}}</p>
             <p><strong>E-Mail :</strong> {{email}}</p>
             <p><strong>Message :</strong> {{message}}</p>
-            <p><strong>$device_details :$ip</strong></p>
+            $device_details : $ip
         ',
     ];
 
