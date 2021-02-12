@@ -3,7 +3,7 @@
 // reCaptcha v3 (https://developers.google.com/recaptcha/docs/v3)
 // @author Raspgot
 
-const publicKey = ""; // GOOGLE public key
+const publicKey = "6Lf8pFQaAAAAAKNRABjoMgsEsFPiTb79_XICE9fa"; // GOOGLE public key
 
 // Get token from API
 function check_grecaptcha() {
