@@ -15,7 +15,7 @@ use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\SMTP;
 
 # https://www.php.net/manual/fr/timezones.php
-date_default_timezone_set('America/Los_Angeles');
+date_default_timezone_set('Asia/Kolkata');
 
 require __DIR__ . '/vendor/PHPMailer/Exception.php';
 require __DIR__ . '/vendor/PHPMailer/PHPMailer.php';
