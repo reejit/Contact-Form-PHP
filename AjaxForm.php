@@ -32,7 +32,7 @@ class Ajax_Form {
     const SMTP_SECURE = PHPMailer::ENCRYPTION_STARTTLS;
     const SMTP_AUTH   = true;
     const PORT        = 587;
-    const SECRET_KEY  = '6Lf8pFQaAAAAAH-4JCddEvm_BqjVo-KIGkMrhNev'; # GOOGLE secret key
+    const SECRET_KEY  = '6Lf8pFQaAAAAAKNRABjoMgsEsFPiTb79_XICE9fa; # GOOGLE secret key
     const SUBJECT     = 'New message !';
     public $handler   = [
         'success'       => '✔️ Your message has been sent !',
